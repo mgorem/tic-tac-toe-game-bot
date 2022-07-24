@@ -3,3 +3,5 @@
 /lib
 /share
 /pyenv.cfg
+tictactoebot/.gitignore
+tictactoebot/pyenv.cfg
